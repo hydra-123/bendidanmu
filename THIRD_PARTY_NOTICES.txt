@@ -1,0 +1,11 @@
+Local Video Player - third-party components
+
+libmpv
+The bundled libmpv-2.dll is copied from the user's local Kazumi Windows 2.3.7
+installation. Its embedded file version is mpv v0.41.0-1049-g0b7ed670f-dirty.
+mpv is distributed under GPL-2.0-or-later. Upstream project and source:
+https://github.com/mpv-player/mpv
+
+The DLL is included for this user's local build. Before redistributing this
+player or its bundled DLL, retain the applicable notices and provide the
+corresponding source and build information required by the component licenses.
